@@ -16,9 +16,14 @@ An AI-based recommendation system is a technology designed to predict users' pre
 
 **OUTPUT**
 RecommendedItem[item:13, value:5.0]
+<br>
 RecommendedItem[item:12, value:4.9]
+<br>
 RecommendedItem[item:14, value:4.8]
+<br>
 RecommendedItem[item:15, value:4.7]
+<br>
 RecommendedItem[item:16, value:4.6]
+<br>
 Evaluation result: 0.845
 
